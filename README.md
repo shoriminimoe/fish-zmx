@@ -37,6 +37,7 @@ detach  (Detach all clients from current session (ctrl+\ for current client))
 help                                                      (Show help message)
 kill                                (Kill a session and all attached clients)
 list                                                   (List active sessions)
+...
 ```
 
 Live sessions are completed too:
