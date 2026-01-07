@@ -5,7 +5,7 @@
 ## Features
 
 - Completes subcommands
-- Completes existing sessions for `attach` and `kill` commands
+- Completes sessions for subcommands like `attach`, `run`, etc.
 
 ## Installation
 
